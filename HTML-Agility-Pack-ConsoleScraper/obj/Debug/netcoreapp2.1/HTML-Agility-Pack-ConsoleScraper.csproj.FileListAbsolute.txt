@@ -1,0 +1,11 @@
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\bin\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.deps.json
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\bin\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.runtimeconfig.json
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\bin\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.runtimeconfig.dev.json
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\bin\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.dll
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\obj\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.csprojAssemblyReference.cache
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\obj\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.csproj.CoreCompileInputs.cache
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\obj\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.AssemblyInfoInputs.cache
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\obj\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.AssemblyInfo.cs
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\bin\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.pdb
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\obj\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.dll
+C:\Users\gregs\Desktop\CD\HTML-Agility-Pack-ConsoleScraper\HTML-Agility-Pack-ConsoleScraper\obj\Debug\netcoreapp2.1\HTML-Agility-Pack-ConsoleScraper.pdb
